@@ -59,13 +59,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require asofter/yii2-imperavi-redactor "*"
+php composer.phar require VolkovAlexander/yii2-imperavi-redactor "*"
 ```
 
 or add
 
 ```
-"asofter/yii2-imperavi-redactor": "*"
+"VolkovAlexander/yii2-imperavi-redactor": "*"
 ```
 
 to the require section of your `composer.json` file.
